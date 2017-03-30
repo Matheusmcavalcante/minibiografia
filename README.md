@@ -12,7 +12,7 @@ Uma minibiografia escrita por mim.
 
 `mvnw org.apache.tomcat.maven:tomcat7-maven-plugin:run`
 
-#Caso apresente o erro
+# Caso apresente o erro
 
 Error: JAVA_HOME not found in your environment. Execute:
 
